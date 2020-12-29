@@ -1,17 +1,15 @@
-So, what capabilities does VI8 have? Once you know how to type with this thing (Learn how to type with this original [8Pen-game App] (https://play.google.com/store/apps/details?id=com.eightpen.android.wordcup&hl=en), you must know the following
+### Overall Concept
+Getting started with 8Vim can be tough at first. Check out this YouTube video of 8Pen (the forerunner of 8Vim) to see how it works. The layout of 8Vim is a little different, but the concept is the same: https://www.youtube.com/watch?v=q3OuCR0EpGo
 
-Basic Needed Stuff
+### Sectors
+Notice how the keyboard is divided in 4 sectors? If you tap once on a sector, these are the effects:
 
-    Right Sector acts as a backspace Key.
-    Bottom Sector acts as a Enter Key.
-    Top Sector acts as a combi of SHIFT and CAPS_LOCK Key, i.e, Press once Shift is active, Press Twice CAPS is active and Press once more and everything is back to usual.
-    Left Sector acts as the button that takes you to the Number Pad.
+    Right Sector acts as a Backspace key
+    Left Sector acts as a shortcut to the Number Pad
+    Top Sector acts as a combo Shift & Caps Lock key (i.e, Press once for Shift, Press twice for Caps Lock, and Press once more and everything is back to usual)
+    Bottom Sector acts as an Enter key
 
-Cursor Movements
+### Cursor Movements
+If you move your finger from the center-circle to any sector and stay, the cursor will instead will move that direction. For example, if you swipe from circle->right, the cursor will move right. You get the picture.
 
-If you move your finger from the center-circle to any sector and stay, the cursor movement will be emulated. For example, if you swipe from circle->right, the cursor will move right. You get the picture.
-Selection
-
-There is selection built in to the keyboard. if you move your finger from the right sector to the circle, the cursor will start moving left and selecting everything in it's path. once you release, a selection keyboard will open up for various stupidities to do.
-
-Paste Functionality : Moving your finger from right->circle->lift-your-finger performs a paste. whatever is in the clipboard.
+Text selection is also built into the keyboard. If you move your finger from the right sector to the circle, it will switch to the copy/paste aspect of the keyboard (which includes cursor movement arrows).
